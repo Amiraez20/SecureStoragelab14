@@ -157,3 +157,12 @@ L'activité `DashboardActivity` propose un écran unique avec :
 - **Cache** : temporaire, purgeable manuellement.
 - **Externe app-specific** : export contrôlé, sans permissions runtime.
 - **Sécurité** : pas de logs sensibles, chiffrement, nettoyage explicite, isolation.
+
+## DEMO
+
+https://github.com/user-attachments/assets/87c2b574-b1fb-440f-912d-dfddf25d04f7
+
+
+https://github.com/user-attachments/assets/2ce4d2f9-3307-4062-8190-2801398c1c6e
+
+
